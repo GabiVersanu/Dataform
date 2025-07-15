@@ -1,6 +1,6 @@
 config {
     type: "view",
-    schema: "test_dataset"
+    schema: "test_dataset2"
 }
 
 SELECT
